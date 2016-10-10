@@ -1,0 +1,16 @@
+"motd_entries"
+{
+	"last_request_time"		"2016-10-06 17:01:25"
+	"last_request_language"		"english"
+	"78"
+	{
+		"post_time"		"2016-08-24 23:50:00"
+		"title_english"		"Meat vs. Match War Is Over!"
+		"text_english"		"Team Pyro has won! Due to Team Pyro's effort in the war, Pyro will be receiving a class pack in a future update!"
+		"url"		"http://www.teamfortress.com/meetyourmatch/war.php"
+		"image"		"../vgui/main_menu/motd_meet_your_match"
+		"header_type"		"0"
+		"header_english"		"News"
+		"header_icon"		"class_icons/filter_all_motd"
+	}
+}
